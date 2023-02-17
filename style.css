@@ -1,0 +1,64 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.text{
+  color:#002266;
+  display:flex;
+  justify-content: space-around;  
+  padding: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.textt{
+  text-align: center;
+   color:#002266;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.firstpg{
+  background-color:#e6e6e6;
+  padding: 10px;
+  margin:10px;
+  width: 60%;
+  float: right;
+  
+}
+
+.logo{
+  width: 250px;
+  float: right;
+}
+
+.obj{
+  width: 65%;
+  float: right;
+}
+
+hr{
+
+  height:2px;
+  background-color: #00b8e6;
+}
+
+.sub{
+  margin-left: 30px;;
+  font-weight: bold;
+  color:#002266;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+  color: #00b8e6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dot{
+  margin-left: 65px;
+}
